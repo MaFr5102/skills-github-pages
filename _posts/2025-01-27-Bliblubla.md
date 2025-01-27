@@ -1,4 +1,4 @@
-_posts/2025-01-27-Bliblubla.md
+
 
 ---
 title: "Bliblubla"
